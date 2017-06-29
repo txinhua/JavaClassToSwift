@@ -1,1 +1,5 @@
 .DS_Store
+.idea/*
+src/main/resources/*
+src/test/*
+target/*
