@@ -1,0 +1,3 @@
+# JavaClassToSwift
+一个将Java后台的Bean转换为Swift文件的小工具
+使用方法为下载该工程后，将需要转换的.java文件放入到main的package目录下，编译运行，最后在target中能得到想要的swift文件
